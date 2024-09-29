@@ -92,3 +92,7 @@ jdbc:h2:mem:testdb
 
 ![image](https://github.com/user-attachments/assets/e1e16d0d-015f-4534-bb9d-07ceb819ffc6)
 
+
+![image](https://github.com/user-attachments/assets/1c52e9d1-2460-4d73-98f8-6fa3fc801e23)
+http://localhost:8080/users
+
