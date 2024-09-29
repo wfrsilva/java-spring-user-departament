@@ -132,3 +132,11 @@ Content-Type: application/json
 ![image](https://github.com/user-attachments/assets/ef46af6e-3b34-48dd-9230-665fc588888f)
 
 
+### Extras
+Configurado Departamento para ser listado (GET) e ser criado (POST)
+ - controllers/DepartmentController.java
+ - repositories/DepartmentRepository.java
+
+http://localhost:8080/departments
+http://localhost:8080/departments/1
+
