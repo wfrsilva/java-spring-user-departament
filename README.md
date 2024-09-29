@@ -111,3 +111,24 @@ http://localhost:8080/users
 ![image](https://github.com/user-attachments/assets/2f8c1a65-722f-496f-9817-d1de16209daf)
 
 http://localhost:8080/users/4
+
+
+codorna.http
+```
+#POST http://10.255.255.254:8080/users/ #com barra da erro
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "codorna",
+  "email": "codorna@gmail.com",
+  "department": {
+    "id": 2
+  }
+}
+```
+![image](https://github.com/user-attachments/assets/853907de-eee0-4fd6-a65f-1166f973c1db)
+![image](https://github.com/user-attachments/assets/f17d0003-19b8-463c-b15c-982617fd0194)
+![image](https://github.com/user-attachments/assets/ef46af6e-3b34-48dd-9230-665fc588888f)
+
+
