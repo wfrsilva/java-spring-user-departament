@@ -81,6 +81,8 @@ https://www.getpostman.com/collections/ac4a49113c4024e47d4f
 ![image](https://github.com/user-attachments/assets/03b3e4c2-b402-44e5-8a5b-2389712b5d78)
 
 ![image](https://github.com/user-attachments/assets/6adef3ea-2a96-4a64-a80f-5f04e12f0bdb)
+http://localhost:8080/h2-console/
+jdbc:h2:mem:testdb
 
 ![image](https://github.com/user-attachments/assets/bcaefa4c-3e3b-443f-9a86-3e6c0ebbab28)
 
