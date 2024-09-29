@@ -77,7 +77,11 @@ INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com
 https://www.getpostman.com/collections/ac4a49113c4024e47d4f
 
 Inicialmente vou usar o plugin VScode Rest client como usei no projeto [first-spring-app](https://github.com/wfrsilva/first-spring-app/)
-Cuidado com a barra no users/
+
+
+**Cuidado com a barra no users/**
+
+
 ![image](https://github.com/user-attachments/assets/1693d42e-5ebf-4d04-8c28-c72f002c108b)
 ![image](https://github.com/user-attachments/assets/b771de8e-8599-4ccb-aac3-7a1b23138657)
 ![image](https://github.com/user-attachments/assets/b7431191-2a3a-44ed-af44-97771aa7abeb)
