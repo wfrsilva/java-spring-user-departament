@@ -1,0 +1,11 @@
+#POST http://10.255.255.254:8080/users
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "codorna",
+  "email": "codorna@gmail.com",
+  "department": {
+    "id": 2
+  }
+}
