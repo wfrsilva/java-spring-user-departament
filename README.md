@@ -138,5 +138,9 @@ Configurado Departamento para ser listado (GET) e ser criado (POST)
  - repositories/DepartmentRepository.java
 
 http://localhost:8080/departments
+
+![image](https://github.com/user-attachments/assets/790de1e3-c272-4eb5-8308-2cb729533c5b)
+
 http://localhost:8080/departments/1
+![image](https://github.com/user-attachments/assets/ed98521d-0533-45c5-950c-5875f4c005b1)
 
