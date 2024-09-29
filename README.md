@@ -145,3 +145,12 @@ http://localhost:8080/departments/1
 
 ![image](https://github.com/user-attachments/assets/ed98521d-0533-45c5-950c-5875f4c005b1)
 
+#### POST departments
+
+post-department.http
+
+![image](https://github.com/user-attachments/assets/ca7630e1-96e3-4c09-9ea9-d54ca125bfc8)
+![image](https://github.com/user-attachments/assets/f778b340-44c2-4403-91ce-d5650f4821f8)
+![image](https://github.com/user-attachments/assets/b6a460e1-09c5-4489-98b1-eb9f777c076d)
+
+
