@@ -1,4 +1,4 @@
-#POST http://10.255.255.254:8080/users
+#POST http://10.255.255.254:8080/users/ #com barra da erro
 POST http://localhost:8080/users
 Content-Type: application/json
 
